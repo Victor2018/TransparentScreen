@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">透明屏幕</string>
+    <string name="_lease_open_permissions">Please open permissions</string>
+</resources>
